@@ -39,7 +39,7 @@ No "then I reversed the binary like it was a Tuesday afternoon". If something to
 
 | Box | OS | Difficulty | The one-line spoiler | Writeup |
 |:---|:---:|:---:|:---|:---:|
-| **DanglingTree** | 🪟 Windows | 🔴 Hard | The CA advertised certificate templates that **didn't exist**. So I made one exist — and walked out with a Domain Admin certificate. | [📖 Read](DanglingTree/) |
+| **DanglingTree** | 🪟 Windows | 🔴 Hard | The CA advertised certificate templates that **didn't exist**. So I made one exist — and walked out with a Domain Admin certificate. | [📖 Read](./DanglingTree-HTB.md) |
 | *your next victim* | — | — | *coming soon™* | ⏳ |
 | *the one that humbled me* | — | — | *we don't talk about that one* | 🚧 |
 
@@ -103,9 +103,9 @@ Boxes where the intended path was easier than my path... all of them
 
 | Where | Link |
 |:---|:---|
-| 📝 **Medium** (long-form writeups) | [@SEU-USUARIO](https://medium.com/@SEU-USUARIO) |
-| 🎯 **Hack The Box** | [my profile](https://app.hackthebox.com/profile/SEU-ID) |
-| 💼 **LinkedIn** | [in/SEU-USUARIO](https://www.linkedin.com/in/SEU-USUARIO/) |
+| 📝 **Medium** (long-form writeups) | [@SEU-USUARIO](https://medium.com/@macedo.if) |
+| 🎯 **Hack The Box** | [my profile](https://app.hackthebox.com/public/users/326902) |
+| 💼 **LinkedIn** | [in/SEU-USUARIO](https://www.linkedin.com/in/imacedo-offsec) |
 | 🐙 **GitHub** | you're already here 👀 |
 
 ---
