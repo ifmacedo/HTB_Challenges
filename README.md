@@ -212,7 +212,7 @@ Máquinas em que o caminho intended era mais fácil que o meu... todas
 | Onde | Link |
 |:---|:---|
 | 📝 **Medium** (writeups longos) | [@SEU-USUARIO](https://medium.com/@macedo.if) |
-| 🎯 **Hack The Box** | [meu perfil](https://app.hackthebox.com/profile/326902) |
+| 🎯 **Hack The Box** | [meu perfil](https://app.hackthebox.com/public/users/326902) |
 | 💼 **LinkedIn** | [in/SEU-USUARIO](https://www.linkedin.com/in/imacedo-offsec) |
 | 🐙 **GitHub** | você já está aqui 👀 |
 
