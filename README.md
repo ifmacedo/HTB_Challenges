@@ -12,7 +12,6 @@
 
 **🌎 Language / Idioma &nbsp;→&nbsp; [🇺🇸 English](#en) &nbsp;·&nbsp; [🇧🇷 Português](#pt)**
 
-<sub>Standalone versions / Versões separadas: <a href="./README.en.md">README.en.md</a> · <a href="./README.pt-BR.md">README.pt-BR.md</a></sub>
 
 </div>
 
