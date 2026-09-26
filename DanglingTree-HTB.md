@@ -2,6 +2,10 @@
 **Difficulty:** Hard · **OS:** Windows Server 2025 · **Domain:** `danglingtree.htb` · **DC:** `dc.danglingtree.htb`
 DanglingTree is a single-DC Active Directory box that rewards careful service enumeration over brute force. The chain is: an anonymously readable SMB share that leaks the first credential → authenticated RCE through Windows Admin Center (CVE-2026–26119) → a loopback-only SmarterMail instance abused for code execution as a service account (CVE-2026–23760) → a retained mail store whose passwords are weak DES → DPAPI decryption → an ACL misconfiguration (`ForceChangePassword`) → a *ghost* certificate template published on the CA but missing from the directory, turned into an ESC1 → Domain Admin. Two flags, one long but very clean chain. This is the most comprehensive write-up on the internet for solving this challenge.
 - -
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wC0OOTtQbxHxa6oNrPg4Cw.png">
+</p>
+
 ## 1. Enumeration
 Standard AD port sweep:
 ```bash
