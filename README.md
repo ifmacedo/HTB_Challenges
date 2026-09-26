@@ -147,7 +147,7 @@ Nada de "aí eu reverti o binário como quem toma um café". Se me custou quatro
 
 | Máquina | SO | Dificuldade | O spoiler de uma linha | Writeup |
 |:---|:---:|:---:|:---|:---:|
-| **DanglingTree** | 🪟 Windows | 🔴 Difícil | A CA anunciava templates de certificado que **não existiam**. Então eu fiz um existir — e saí de lá com um certificado de Domain Admin. | [📖 Ler](./DanglingTree/) |
+| **DanglingTree** | 🪟 Windows | 🔴 Difícil | A CA anunciava templates de certificado que **não existiam**. Então eu fiz um existir — e saí de lá com um certificado de Domain Admin. | [📖 Ler](./DanglingTree-HTB.md) |
 | *a próxima vítima* | — | — | *em breve™* | ⏳ |
 | *a que me humilhou* | — | — | *dessa a gente não fala* | 🚧 |
 
