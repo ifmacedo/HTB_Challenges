@@ -103,9 +103,9 @@ Boxes where the intended path was easier than my path... all of them
 
 | Where | Link |
 |:---|:---|
-| 📝 **Medium** (long-form writeups) | [@SEU-USUARIO](https://medium.com/@macedo.if) |
-| 🎯 **Hack The Box** | [my profile](https://app.hackthebox.com/public/users/326902) |
-| 💼 **LinkedIn** | [in/SEU-USUARIO](https://www.linkedin.com/in/imacedo-offsec) |
+| 📝 **Medium** (long-form writeups) | [@My-Medium](https://medium.com/@macedo.if) |
+| 🎯 **Hack The Box** | [My Profile](https://app.hackthebox.com/public/users/326902) |
+| 💼 **LinkedIn** | [in/My_Profile](https://www.linkedin.com/in/imacedo-offsec) |
 | 🐙 **GitHub** | you're already here 👀 |
 
 ---
@@ -211,9 +211,9 @@ Máquinas em que o caminho intended era mais fácil que o meu... todas
 
 | Onde | Link |
 |:---|:---|
-| 📝 **Medium** (writeups longos) | [@SEU-USUARIO](https://medium.com/@macedo.if) |
-| 🎯 **Hack The Box** | [meu perfil](https://app.hackthebox.com/public/users/326902) |
-| 💼 **LinkedIn** | [in/SEU-USUARIO](https://www.linkedin.com/in/imacedo-offsec) |
+| 📝 **Medium** (writeups longos) | [@Meu_Medium](https://medium.com/@macedo.if) |
+| 🎯 **Hack The Box** | [Meu Perfil](https://app.hackthebox.com/public/users/326902) |
+| 💼 **LinkedIn** | [in/Meu_Perfil](https://www.linkedin.com/in/imacedo-offsec) |
 | 🐙 **GitHub** | você já está aqui 👀 |
 
 ---
